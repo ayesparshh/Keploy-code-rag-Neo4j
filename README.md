@@ -1,5 +1,8 @@
 # Code Analysis Tool with Neo4j
 
+Indexed codebase structure
+![image](https://github.com/user-attachments/assets/7dedb4c8-15e0-45fc-8928-dacbef5f1d76)
+
 This project provides a multi-language code analysis tool that analyzes source code and creates a graph representation in Neo4j. It currently supports the following languages:
 
 - Go
